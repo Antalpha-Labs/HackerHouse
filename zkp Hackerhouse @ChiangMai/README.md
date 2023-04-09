@@ -14,6 +14,12 @@
 
 
 
+Keynote:The Roaring Twenties: Recent Advances in Zero-Knowledge Proofs - Mary Maller (EF)
+
+- https://www.youtube.com/watch?v=uZAOt6_fZ1k 
+
+
+
 ## Programming
 
 **Circom Intro and programming from MIT IAP2023, Session 1 ~ Session 4**https://zkiap.com/
