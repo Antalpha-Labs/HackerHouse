@@ -11,7 +11,7 @@
 
 Web3 的世界，信任弥足珍贵，我们以一场场共居共创的 HackerHouse 为纽带，与全球众多Hacker 构建了紧密且宝贵的联系，建立了属于我们的校友网络。在此期间，不少 Hacker 被打动、感染、加入。与此同时，我们也听到了大量来自 Hacker 的声音。
 
-**每个 Hacker 都有自己想做的 HackerHouse，正如每个 Hacker 都有自己独特的气质，有自己感兴趣的方向，有自己擅长的领域。**我们乐于看见 HackerHouse 的更多种可能，愿意助力更多 HackerHouse 的诞生，也真诚希望 HackerHouse 能成为一个聚集更多的技术爱好者、创新者和社区成员的场所，为他们提供一个交流、合作和成长的机会。
+**每个 Hacker 都有自己想做的 HackerHouse，正如每个 Hacker 都有自己独特的气质，有自己感兴趣的方向，有自己擅长的领域**。我们乐于看见 HackerHouse 的更多种可能，愿意助力更多 HackerHouse 的诞生，也真诚希望 HackerHouse 能成为一个聚集更多的技术爱好者、创新者和社区成员的场所，为他们提供一个交流、合作和成长的机会。
 
 我们欣赏并鼓励每个 Hacker 的个性，我们相信 Hacker 更懂 Hacker。欢迎往期参与 HackerHouse 的 Hacker 老友们，快快一起来搞事情，让 HackerHouse 的薪火相传！
 
@@ -41,7 +41,7 @@ Antalpha HackerHouse community Grant 旨在鼓励和帮助往期参与 Hacker �
 4. 在提交前，请仔细检查所填写的信息，确保准确无误。
 5. 经过评估和筛选后，我们将与你联系，通知你是否获得进一步的支持。
 
-非常荣幸申请 Antalpha HackerHouse community Grant！我们期待帮助你举办你的 HackerHouse。如果你对报名流程有任何疑问或需要进一步的帮助，请随时与我们联系！
+非常感谢申请 Antalpha HackerHouse Community Grant！我们期待帮助你举办你的 HackerHouse。如果你对报名流程有任何疑问或需要进一步的帮助，请随时与我们联系！
 
 ---
 
