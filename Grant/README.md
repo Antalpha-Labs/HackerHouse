@@ -23,11 +23,11 @@ Antalpha HackerHouse community Grant 旨在鼓励和帮助往期参与 Hacker �
 
 **哪些人可以申请该 Grant**：参与过 Antalpha HackerHouse 的所有 hacker 都可以申请
 
-**每期 Grant 金额：**1000U
+**每期 Grant 金额**：1000U
 
-**我们提供（包括且不限于）：**资金赞助、活动宣传和推广、资源共享（导师等）、海报设计、运营指导等
+**我们提供（包括且不限于）**：资金赞助、活动宣传和推广、资源共享（导师等）、海报设计、运营指导等
 
-**发放周期：**预计每月一期（视实际报名情况而定）
+**发放周期**：预计每月一期（视实际报名情况而定）
 
 ---
 
@@ -35,8 +35,8 @@ Antalpha HackerHouse community Grant 旨在鼓励和帮助往期参与 Hacker �
 
 欢迎参加Antalpha HackerHouse community Grant！以下是报名流程：
 
-1. 进入Github 链接，新建issues；
-2. 在表单中详细描述你的计划，包括 HackerHouse 的主题或方向、活动时长、举办地点、预计参与人数和产出内容形式、需要我们提供的支持等；
+1. 进入Github [链接](https://github.com/Antalpha-Labs/HackerHouse/issues)，新建issues；
+2. 提交详细计划，包括 HackerHouse 的主题或方向、活动时长、举办地点、预计参与人数和产出内容形式、需要我们提供的支持等；
 3. 提供你的联系信息，包括电子邮件地址/微信/电话，以便我们与你取得联系。
 4. 在提交前，请仔细检查所填写的信息，确保准确无误。
 5. 经过评估和筛选后，我们将与你联系，通知你是否获得进一步的支持。
