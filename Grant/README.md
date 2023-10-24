@@ -44,6 +44,21 @@ Antalpha HackerHouse community Grant 旨在鼓励和帮助往期参与 Hacker �
 非常感谢申请 Antalpha HackerHouse Community Grant！我们期待帮助你举办你的 HackerHouse。如果你对报名流程有任何疑问或需要进一步的帮助，请随时与我们联系！
 
 ---
+### 志愿者招募
+
+想要见证一次 HackerHouse 的诞生过程，感受社区带来的魅力与奇妙体验吗？不妨一起亲历它！我们正在寻找热爱设计、文案创作和线下活动组织的志愿者加入！
+
+**作为 HackerHouse 贡献者，你将享受到以下福利：**
+
+1. 积累 HackerHouse 组织经验，丰富你的 Web3 履历；
+2. 与来自不同领域的专业人士和志愿者团队共同工作，拓宽你的人脉圈；
+3. 活动周边激励，收获纪念奖品；
+4. 学习到行业知识，通过各种活动和工作坊提升自己的技能；
+5. ……
+
+志愿者报名表单[https://tally.so/r/nWRgyQ](https://tally.so/r/nWRgyQ)
+
+---
 
 ### 联系方式
 
