@@ -4,4 +4,4 @@ Theme, time and location varies from one event to another, but our excitement to
 
 中文社区支持 [Grant](https://github.com/Antalpha-Labs/HackerHouse/tree/main/Grant) 已经发布，欢迎大家参与.
 
-[Join Us](https://t.me/AntalphaLabs)
+Join Us[[Join Us](https://t.me/AntalphaLabs)](https://t.me/AntalphaLabs)
