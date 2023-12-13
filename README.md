@@ -6,3 +6,4 @@ Theme, time and location varies from one event to another, but our excitement to
 
 Join Us: [https://t.me/AntalphaLabs](https://t.me/AntalphaLabs)
 - [test](https://github.com/Antalpha-Labs/HackerHouse/issues/4) 2023-12-13
+- [test hackerhouse](https://github.com/Antalpha-Labs/HackerHouse/issues/5) 2023-12-13
