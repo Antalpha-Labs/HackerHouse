@@ -9,3 +9,4 @@ Join Us: [https://t.me/AntalphaLabs](https://t.me/AntalphaLabs)
 - [test6](https://github.com/Antalpha-Labs/HackerHouse/issues/7) 2023-12-13
 - [test](https://github.com/Antalpha-Labs/HackerHouse/issues/8) 2023-12-13
 - [test777](https://github.com/Antalpha-Labs/HackerHouse/issues/9) 2023-12-13
+- [test888](https://github.com/Antalpha-Labs/HackerHouse/issues/10) 2023-12-13
