@@ -9,5 +9,5 @@ Join Us: [https://t.me/AntalphaLabs](https://t.me/AntalphaLabs)
 ## Grants
 
 
-[Antalpha Hacker House in Chiangmai](https://github.com/Antalpha-Labs/HackerHouse/issues/3)
-- [HackerHouse支持](https://github.com/Antalpha-Labs/HackerHouse/issues/14) 2023-12-27
+- [Antalpha Hacker House in Chiangmai](https://github.com/Antalpha-Labs/HackerHouse/issues/3)
+- [Antalpha Hacker House in Shanghai](https://github.com/Antalpha-Labs/HackerHouse/issues/14) 2023-12-27
